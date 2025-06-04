@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+langchain
+python-dotenv
+openai
+msal
+microsoftgraph-python
+dotenv
